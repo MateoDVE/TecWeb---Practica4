@@ -27,7 +27,7 @@ body {
 #span
 {
     font-style: italic;
-    color: blueviolet
+    color: blueviolet;
 }
 #aside-left{
     grid-column: 1 / 2;
