@@ -18,6 +18,17 @@ body {
     color: white;
     grid-column: 1/4;
 }
+#nav{
+    padding: 15px;
+    background-color: rgba(71,109,147,1);
+    color: white;
+    grid-column: 1/4;
+}
+#span
+{
+    font-style: italic;
+    color: blueviolet
+}
 #aside-left{
     grid-column: 1 / 2;
     padding: 15px;
